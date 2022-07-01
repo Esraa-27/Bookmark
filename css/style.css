@@ -1,0 +1,18 @@
+
+*{
+    font-family: arial;
+}
+.bookmark {
+
+    background-image: linear-gradient(#EEE,#FFF);
+    margin: 10px 0;
+    padding: 20px;
+
+}
+.form-cont{
+    background-color: #EEE;
+    
+  }
+#addupdateBtn{
+    display: none;
+}
